@@ -1,0 +1,26 @@
+Script started on 2016年03月08日 (週二) 02時15分17秒
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ whoamil[K; pwd
+F74042175
+/home/F74042175/LAB
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ ls
+[0m[01;34mlab1[0m  lab1.script
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ git congi[K[Kfig -l
+user.name=Bisyuu
+user.email=jerrys1542@gmail.com
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ git l[Kclone http://gti[Kithou[Kb[K[Kub.com/Bisyuu/lab1.git
+Cloning into 'lab1'...
+fatal: http://gtithub.com/Bisyuu/lab1.git/info/refs not valid: is this a git repository?
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ git clone http://gtithub.com/Bisyuu/lab1.git[Cs://gtithub.com/Bisyuu/lab1.git[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+error: Failed connect to gtithub.com:443; Connection refused while accessing https://gtithub.com/Bisyuu/lab1.git/info/refs
+fatal: HTTP request failed
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ git clone https://gtithub.com/Bisyuu/lab1.git[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+error: Failed connect to gtithub.com:443; Connection refused while accessing https://gtithub.com/Bisyuu/lab1.git/info/refs
+fatal: HTTP request failed
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ git clone https://github.com/Bisyuu/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74042175@2015cpp: ~/LAB[01;32mF74042175@2015cpp[00m:[01;34m~/LAB[00m$ exit
+
+Script done on 2016年03月08日 (週二) 02時19分19秒
